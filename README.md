@@ -1,5 +1,10 @@
 # Prexel - Sublime Text plugin
 
+## Film Introduction
+![Traditional approach](https://youtu.be/PCVa0_yruF8)
+![PREXEL approach](https://youtu.be/PPh1MfsP6CU)
+
+
 ## Installation
 
 ### Step 1 - Download Sublime Text 3 (Optional)
